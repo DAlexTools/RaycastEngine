@@ -6,9 +6,9 @@ The project builds two applications:
 
 - `RaycastEngineApp` - the main game/runtime executable.
 - `RaycastMapEditor` - the standalone map editor executable.
-
+![GameEditorImage](resources/GameEditor.jpg)
 The editor is also linked into the game and can be opened with `F1`.
-
+![EditorImage](resources/Editor.jpg)
 ## Features
 
 - Software raycasting renderer with one ray per screen column.
