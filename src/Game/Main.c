@@ -19,7 +19,7 @@
 
 
 // on/off for debug minimap 
-#define DEBUG_MAP 1
+#define DEBUG_MAP 0
 
 /* Global variable  */ 
 int IsGameRunning = false;

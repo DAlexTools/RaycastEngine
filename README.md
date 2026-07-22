@@ -1,5 +1,5 @@
 # RaycastEngine
-
+![GameImage](resources/Game.jpg)
 RaycastEngine is a small C/C++ raycasting engine with an SDL2 software renderer and an ImGui-based map editor. The project renders a Wolfenstein-style 2.5D scene from a tile map, with textured walls, floor and ceiling projection, billboard sprites, doors, and a debug minimap.
 
 The project builds two applications:
