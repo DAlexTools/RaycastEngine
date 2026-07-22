@@ -1,0 +1,73 @@
+# Build directories
+build/
+out/
+bin/
+obj/
+.agents/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# CMake generated Visual Studio files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.slnx
+ALL_BUILD.*
+ZERO_CHECK.*
+
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Libraries
+*.a
+*.lib
+*.la
+*.lo
+*.dll
+*.dylib
+*.so
+*.so.*
+
+# Executables and debug symbols
+*.exe
+*.out
+*.app
+*.pdb
+*.idb
+*.ilk
+*.map
+
+# Visual Studio cache and user files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+ipch/
+
+# MSBuild logs
+*.log
+*.tlog
+*.lastbuildstate
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
